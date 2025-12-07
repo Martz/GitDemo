@@ -14,7 +14,7 @@ These are all generally useful day to day
  * cat FILE.md | less
  * cat FILE.md | wc -l is a word count
  * cd .. home directory 
- * tab twice will shoe whats in the directory
+ * tab twice will show whats in the directory
  * cd always goes to home directory 
  * . will act in the current directory eg code . 
  * du disk usage 
